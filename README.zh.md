@@ -1,3 +1,5 @@
+[Switch to English](https://github.com/caijianhaoa/caill-cli/blob/main/README.md)
+
 ## 这是一个快速生成项目模板的脚手架，支持vue和react，其中vue集成了vite,axios,typescript,pinia,react集成了typescript和Ant Design
 
 - ### 创建一个项目

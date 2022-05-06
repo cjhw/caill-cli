@@ -1,4 +1,4 @@
-[切换成中文](https://github.com/caijianhaoa/mini-vue3/tree/main/README.zh.md)
+[切换成中文](https://github.com/caijianhaoa/caill-cli/blob/main/README.zh.md)
 
 ## this is a fast generating project template scaffold, support the vue and react, the vue integrates vite, axios, typescript, pinia, react to integrate the typescript and Ant Design  
  
