@@ -1,0 +1,22 @@
+{
+  "name": "caill-cli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cai": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.7",
+    "inquirer": "^8.2.4",
+    "open": "^8.4.0"
+  }
+}
