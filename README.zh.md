@@ -22,7 +22,7 @@
 
   - 例如：cai addcpn HelloWorld [-d src/components]
 
-  - 默认目录为：src/component
+  - 默认目录为：src/components
 
   - ### 添加一个页面
 
