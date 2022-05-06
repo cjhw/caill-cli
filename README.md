@@ -21,7 +21,7 @@
    
   - for example: cai addcpn HelloWorld [-d src/components]  
    
-  - The default directory is src/Component  
+  - The default directory is src/components  
  
 - ### Add a page  
   
