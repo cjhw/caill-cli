@@ -1,3 +1,5 @@
+[切换成中文](https://github.com/caijianhaoa/caill-cli/blob/main/README.zh.md)
+
 ## this is a fast generating project template scaffold, support the vue and react, the vue integrates vite, axios, typescript, pinia, react to integrate the typescript and Ant Design  
  
 - ### Installed
@@ -21,7 +23,7 @@
    
   - for example: cai addcpn HelloWorld [-d src/components]  
    
-  - The default directory is src/components  
+  - The default directory is src/Component  
  
 - ### Add a page  
   

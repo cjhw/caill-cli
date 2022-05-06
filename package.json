@@ -1,6 +1,6 @@
 {
   "name": "caill-cli",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "react",
+    "cli",
+    "template"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -18,5 +23,9 @@
     "ejs": "^3.1.7",
     "inquirer": "^8.2.4",
     "open": "^8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caijianhaoa/caill-cli"
   }
 }
