@@ -27,5 +27,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/caijianhaoa/caill-cli"
+  },
+  "publishConfig": {
+    "caill-cli:registry": "https://npm.pkg.github.com"
   }
 }
