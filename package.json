@@ -1,6 +1,6 @@
 {
   "name": "caill-cli",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/caijianhaoa/caill-cli"
+    "url": "https://github.com/cjhw/caill-cli"
   },
   "publishConfig": {
     "caill-cli:registry": "https://npm.pkg.github.com"
